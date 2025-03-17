@@ -103,7 +103,7 @@ The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the
 
 The invoked `function` is provided one argument:
 
--   `value`: iterated value
+-   `value`: iterated value.
 
 ```javascript
 var array2iterator = require( '@stdlib/array-to-iterator' );
@@ -247,7 +247,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
